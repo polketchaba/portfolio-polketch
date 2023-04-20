@@ -29,18 +29,6 @@ function Bildung() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="04/2020 - 2024"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<SchoolIcon />}
-        >
-         <h3 className="vertical-timeline-element-title">
-          Frankfurt University of Applied Sciences, Frankfurt (Deutschland)
-          </h3>
-
-          <p> Bachelorstudium Elektrotechnik</p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--education"
           date="10/2019 - 03/2020"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
